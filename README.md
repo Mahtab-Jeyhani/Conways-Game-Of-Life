@@ -11,8 +11,8 @@ Each square (or "cell") on the grid can be either alive or dead, and they evolve
 + Any dead cell with exactly three live neighbors comes to life.
 
 ## Controls
-LEFT CLICK - you can make a cell "active"/"alive" by left-clicking it
-RIGHT CLICK - to "kill" a cell
-SPACE - start/stop
-c - clear/reset
+LEFT CLICK - you can make a cell "active"/"alive" by left-clicking it <br />
+RIGHT CLICK - to "kill" a cell <br />
+SPACE - start/stop <br />
+c - clear/reset <br />
 
